@@ -9,7 +9,7 @@
 
 ## 
 
-This project for paytabs task you can check the importants files
+This project for paytabs task you can check the important files
 - DynamicCategories/routes/web.php 
 - DynamicCategories/resources/views/categories.blade.php
 - DynamicCategories/app/Http/Controllers/Categories.php
